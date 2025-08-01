@@ -21,7 +21,7 @@
 
 ## 🎯 **Sobre Mim**
 
-Sou **Crio soluções de IA que reduzem custos e otimizam atendimento** especializado em **Inteligência Artificial** e **Automação**, com foco em criar soluções que **impactam negócios reais**. Fundador da **AgenciaFER**, desenvolvo sistemas que combinam tecnologias modernas com IA para resolver problemas complexos.
+Sou **Criativo, inovador e gosto de resolver soluções com IA e otimizam processos** especializado em **Inteligência Artificial** e **Automação**, com foco em criar soluções que **impactam negócios reais**. Fundador da **AgenciaFER**, desenvolvo sistemas que combinam tecnologias modernas com IA para resolver problemas complexos.
 
 ### 🌟 **Meu Diferencial**
 - 🧠 **IA Integration Expert** - Claude API, OpenAI, automação inteligente
