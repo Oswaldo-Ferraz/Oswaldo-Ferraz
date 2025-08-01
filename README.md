@@ -23,6 +23,8 @@
 
 Sou **Criativo, inovador e gosto de resolver soluções com IA e otimizam processos** especializado em **Inteligência Artificial** e **Automação**, com foco em criar soluções que **impactam negócios reais**. Fundador da **AgenciaFER**, desenvolvo sistemas que combinam tecnologias modernas com IA para resolver problemas complexos.
 
+Engenheiro de IA e Cloud (AWS) | RAG, MLOps, LangChain, Python | Criando soluções de IA que reduzem custos e otimizam atendimento
+
 ### 🌟 **Meu Diferencial**
 - 🧠 **IA Integration Expert** - Claude API, OpenAI, automação inteligente
 - ☁️ **Multi-Cloud Specialist** - AWS, Google Cloud, automação de infraestrutura  
