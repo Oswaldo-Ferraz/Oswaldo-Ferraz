@@ -10,7 +10,6 @@
   
 **Transformando ideias em soluções digitais inteligentes**
 
-[![GitHub followers](https://img.shields.io/github/followers/Oswaldo-Ferraz?style=social)](https://github.com/Oswaldo-Ferraz)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/oswaldo-ferraz)
 [![Website](https://img.shields.io/badge/-agenciafer.com.br-FF6B6B?style=flat&logo=safari&logoColor=white)](https://agenciafer.com.br)
 [![Email](https://img.shields.io/badge/-contato@agenciafer.com.br-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contato@agenciafer.com.br)
