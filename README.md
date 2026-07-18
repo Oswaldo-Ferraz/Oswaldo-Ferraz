@@ -1,4 +1,4 @@
-# 👋 Olá! Sou Oswaldo Ferraz
+#Olá! Sou Oswaldo Ferraz
 
 <div align="center">
   
@@ -8,7 +8,7 @@
 
 <div align="center">
   
-**🚀 Transformando ideias em soluções digitais inteligentes**
+**Transformando ideias em soluções digitais inteligentes**
 
 [![GitHub followers](https://img.shields.io/github/followers/Oswaldo-Ferraz?style=social)](https://github.com/Oswaldo-Ferraz)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/oswaldo-ferraz)
@@ -19,16 +19,16 @@
 
 ---
 
-## 🎯 **Sobre Mim**
+##**Sobre Mim**
 
 Sou **Criativo, inovador e gosto de resolver soluções com IA e otimizam processos** especializado em **Inteligência Artificial** e **Automação**, com foco em criar soluções que **impactam negócios reais**.
 Engenheiro de IA e Cloud (AWS) | RAG, MLOps, LangChain, Python | Criando soluções de IA que reduzem custos e otimizam atendimento
 
-### 🌟 **Meu Diferencial**
-- 🧠 **IA Integration Expert** - Claude API, OpenAI, automação inteligente
-- ☁️ **Multi-Cloud Specialist** - AWS, Google Cloud, automação de infraestrutura  
-- 🚀 **Modern Full Stack** - React 19, Next.js 15, TypeScript, Python
-- 🤖 **Automation Focused** - CLIs, bots, workflows automatizados
+###**Meu Diferencial**
+- **IA Integration Expert** - Claude API, OpenAI, automação inteligente
+- **Multi-Cloud Specialist** - AWS, Google Cloud, automação de infraestrutura  
+- **Modern Full Stack** - React 19, Next.js 15, TypeScript, Python
+- **Automation Focused** - CLIs, bots, workflows automatizados
 
 ---
 
@@ -36,31 +36,31 @@ Engenheiro de IA e Cloud (AWS) | RAG, MLOps, LangChain, Python | Criando soluç�
 
 <div align="center">
 
-### 🎨 **Frontend & UI/UX**
+### **Frontend & UI/UX**
 ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ **Backend & APIs**
+### **Backend & APIs**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🤖 **IA & Automação**
+### **IA & Automação**
 ![Claude](https://img.shields.io/badge/Claude_API-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### ☁️ **Cloud & DevOps**
+### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 📱 **Comunicação & APIs**
+###**Comunicação & APIs**
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Evolution API](https://img.shields.io/badge/Evolution_API-00C853?style=for-the-badge&logo=api&logoColor=white)
 ![Webhook](https://img.shields.io/badge/Webhooks-FF6B35?style=for-the-badge&logo=webhook&logoColor=white)
@@ -69,16 +69,16 @@ Engenheiro de IA e Cloud (AWS) | RAG, MLOps, LangChain, Python | Criando soluç�
 
 ---
 
-## 🚀 **Projetos em Destaque**
+## **Projetos em Destaque**
 
-### 🧠 **[Sistema Quiz IA](https://github.com/Oswaldo-Ferraz/sistema-quiz-ia)** - *IA & Engagement*
+### **[Sistema Quiz IA](https://github.com/Oswaldo-Ferraz/sistema-quiz-ia)** - *IA & Engagement*
 > Plataforma interativa de quizzes com IA, estilo Typeform moderno
 
 **Tech Stack:** `Next.js 15` `React 19` `TypeScript` `Firebase` `Tailwind CSS`
-- ⚡ **Real-time** com Firestore
-- 🎨 **Interface moderna** estilo Typeform  
-- 🔐 **Autenticação dual** (Firebase + Mock)
-- 📱 **Totalmente responsivo**
+- **Real-time** com Firestore
+- **Interface moderna** estilo Typeform  
+- **Autenticação dual** (Firebase + Mock)
+- **Totalmente responsivo**
 
 ---
 
