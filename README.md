@@ -20,9 +20,11 @@ Olá! Sou Oswaldo Ferraz
 
 ##**Sobre Mim**
 
-Sou **Criativo, inovador e gosto de resolver soluções com IA e otimizam processos** especializado em **Inteligência Artificial** e **Automação**, com foco em criar soluções que **impactam negócios reais**.
-Engenheiro de IA e Cloud (AWS) | RAG, MLOps, LangChain, Python | Criando soluções de IA que reduzem custos e otimizam atendimento
+Com mais de 18 anos de experiência em engenharia de software, automação e tecnologia corporativa, sou especializado no projeto e desenvolvimento de plataformas de Inteligência Artificial para ambientes de produção, permitindo que organizações adotem IA Generativa de forma segura, escalável e governada.
 
+Minha atuação abrange Engenharia de Plataformas de IA, IA Agêntica, infraestrutura para LLMs, Governança de IA, Observabilidade, pipelines RAG e automação inteligente. Desenvolvo arquiteturas completas que integram modelos de linguagem a sistemas corporativos, como CRMs, n8n, Bitrix24, APIs, bancos de dados e processos de negócio.
+
+Meu foco é construir sistemas de IA com governança robusta, incluindo RBAC, aplicação de políticas, proteção de dados sensíveis (PII), auditoria, otimização de custos, avaliação contínua (Evals) e observabilidade. Busco criar soluções seguras, confiáveis e preparadas para produção, capazes de aumentar a eficiência operacional, acelerar a tomada de decisão e gerar valor real para o negócio.
 ###**Meu Diferencial**
 - **IA Integration Expert** - Claude API, OpenAI, automação inteligente
 - **Multi-Cloud Specialist** - AWS, Google Cloud, automação de infraestrutura  
