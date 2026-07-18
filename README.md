@@ -1,4 +1,4 @@
-#Olá! Sou Oswaldo Ferraz
+Olá! Sou Oswaldo Ferraz
 
 <div align="center">
   
