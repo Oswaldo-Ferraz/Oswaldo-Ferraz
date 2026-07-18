@@ -2,7 +2,7 @@ Olá! Sou Oswaldo Ferraz
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=AI+Engineer+%7C+AI+Platform+Engineering;AI+Governance+%7C+AI+Observability+%7C+Production+AI+Systems)](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=AI+Engineer+%7C+AI+Platform+Engineering;AI+Governance+%7C+AI+Observability+%7C+Production+AI+Systems)](https://git.io/typing-svg)
 
 </div>
 
